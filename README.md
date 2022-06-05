@@ -1,6 +1,7 @@
-- Hi😁👋, I’m Hòa Bình
-- 🌱 I’m currently learning python
+- Hi😁👋,** I’m Vũ Hòa Bình.
+- 🌱 I’m currently learning python,c++.
 - 📫 How to reach me hoabinh.vippro63@gmail.com
+
 
 <!---
 VuHoaBinh/VuHoaBinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
