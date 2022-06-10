@@ -4,8 +4,8 @@
 
 ## 📫 Contract with me:
 <p align="left">
-  <a href="(https://www.facebook.com/Btomsenior10x/)" alt="Facebook">
-    <img src="https://img.icons8.com/color/48/undefined/facebook-new.png"/>
+  <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
+    <img src="https://img.icons8.com/color/48/undefined/facebook-new.png" target="_blank" />
   </a>
 </p>
 
