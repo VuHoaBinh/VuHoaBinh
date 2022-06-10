@@ -12,7 +12,7 @@
 ## 🌱 Skills:
 <p align="left">
   <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/circled-c.png"/>
-  <img src="https://img.icons8.com/material-rounded/24/undefined/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/undefined/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
 </p>
 
