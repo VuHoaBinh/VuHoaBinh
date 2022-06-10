@@ -1,15 +1,15 @@
-- Hi😁👋,** I’m Vũ Hòa Bình.You can call me TOM.
+- Hi😁👋,I’m Vũ Hòa Bình.You can call me TOM **.
 - 🌱 I’m currently learning Python,C++.
 - 📫 How to reach me hoabinh.vippro63@gmail.com
 
-## 📫 Contract with me:
+## 📫✌️ Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
     <img src="https://img.icons8.com/color/48/undefined/facebook-new.png" target="_blank" />
   </a>
 </p>
 
-## 🌱 Skills:
+## 👉 Programming Language && Tools 👈
 <p align="left">
   <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/circled-c.png"/>
   <img src="https://img.icons8.com/ios-filled/50/undefined/c-plus-plus-logo.png"/>
