@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 👉 Programming Language && Tools 👈
+## 👉 Programming Languages && Tools 👈
 <p align="left">
   <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/circled-c.png"/>
   <img src="https://img.icons8.com/ios-filled/50/undefined/c-plus-plus-logo.png"/>
