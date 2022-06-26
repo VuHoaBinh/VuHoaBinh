@@ -1,4 +1,4 @@
-- Hi😙👋,I’m Vũ Hòa Bình.You can call me TOM **.
+- Hi😙👋,I’m Vũ Hòa Bình.
 - 🌱 I’m currently learning Python,C++.
 - 💬 Ask me about anything you want 🙂
 - 📫 How to reach me hoabinh.vippro63@gmail.com
@@ -8,13 +8,6 @@
   <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
     <img src="https://img.icons8.com/color/48/undefined/facebook-new.png" target="_blank" />
   </a>
-</p>
-
-## 👉 Programming Languages && Tools 👈
-<p align="left">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/circled-c.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/undefined/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
 </p>
 
 <table style="width:100%;">
