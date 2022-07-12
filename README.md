@@ -1,7 +1,7 @@
 - Hi😙👋,I’m Vũ Hòa Bình.
 - 🌱 I’m currently learning Python,C++.
-- 💬 Ask me about anything you want 🙂
-- 📫 How to reach me hoabinh.vippro63@gmail.com
+- 💬  🙂
+- 📫
 
 ## 📫✌️ Connect with me:
 <p align="left">
