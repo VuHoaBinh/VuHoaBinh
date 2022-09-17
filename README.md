@@ -1,6 +1,6 @@
 - Hi😙👋,I’m Vũ Hòa Bình.
 - 🌱 I’m currently learning Python,C++.
-- 💬  🙂
+- 💬 Open and friendly 🙂
 - 📫
 
 ## 📫✌️ Connect with me:
