@@ -7,7 +7,10 @@
 ## 📫✌️ Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
-    <img src="https://img.icons8.com/color/48/undefined/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/office/48/null/facebook.png"/>
+  </a>
+  <a href="mailto:hoabinh105.work@gmail.com">
+    <img src="https://img.icons8.com/doodle/48/null/apple-mail.png"/>
   </a>
 </p>
 
