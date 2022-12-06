@@ -4,7 +4,7 @@
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
 
-## 📫✌️ Connect with me:
+## 👉 Connect with me 👈
 <p align="left">
   <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
     <img src="https://img.icons8.com/office/48/null/facebook.png"/>
@@ -14,14 +14,15 @@
   </a>
 </p>
 
-<table style="width:100%;">
+<hr>
+<table style="width:50%;">
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VuHoaBinh&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VuHoaBinh&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VuHoaBinh&theme=tokyonight" /></a>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=vuhoabinh&theme=city_lights&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=VuHoaBinh's%20Github%20Stats" alt="vuhoabinh" width="100%"/>
-      <p>
-      <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VuHoaBinh&theme=tokyonight" /></a>
-      </p>
-  </td>
+    </td>
   </tr>
 </table>
     
