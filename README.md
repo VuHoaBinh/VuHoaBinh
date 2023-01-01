@@ -1,6 +1,6 @@
 ![view counter](https://komarev.com/ghpvc/?username=VuHoaBinh&label=Profile%20views&color=005b96&style=flat-square)
 - <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a sophomore at the uni.
-- 🌱 I'm currently trying my dream!!.
+- 🌱 I am very serious about my goals!!.
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
 
