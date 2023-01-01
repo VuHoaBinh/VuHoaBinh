@@ -1,20 +1,21 @@
 ![view counter](https://komarev.com/ghpvc/?username=VuHoaBinh&label=Profile%20views&color=005b96&style=flat-square)
 - <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a sophomore at the uni.
-- 🌱 I’m currently everything!!.
+- 🌱 I'm currently trying my dream!!.
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
 
-## Tools
+## Tool Language
 <p align="left">
-  <a href ="#"><img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-  <a href ="#"><img src="https://img.icons8.com/ios/50/null/c-plus-plus-logo.png"/>
-  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/>
-  <a href ="#"><img src="https://img.icons8.com/color/48/null/html-5--v2.png"/>
-  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
-  <a href ="#"><img src="https://img.icons8.com/ios-filled/50/null/css3.png"/>
-  <a href ="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
+  <a href ="#"><img src="https://img.icons8.com/color/48/null/python--v1.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/ios/50/null/c-plus-plus-logo.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/color/48/null/html-5--v2.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/ios-filled/50/null/css3.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/></a>
 </p>
-    
+
+
 ## 👉 Connect with me 👈
 <p align="left">
   <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
