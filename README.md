@@ -4,7 +4,7 @@
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
 
-## Tool Language
+## Tool Languages
 <p align="left">
   <a href ="#"><img src="https://img.icons8.com/color/48/null/python--v1.png"/></a>
   <a href ="#"><img src="https://img.icons8.com/ios/50/null/c-plus-plus-logo.png"/></a>
