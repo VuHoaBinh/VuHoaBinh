@@ -13,6 +13,10 @@
   <a href ="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
   <a href ="#"><img src="https://img.icons8.com/ios-filled/50/null/css3.png"/></a>
   <a href ="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/></a>
+  <a href ="#"><img src="https://img.icons8.com/officel/48/react.png" alt="react"/></a>
+  <a href ="#"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+  <a href ="#"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/></a>
+  <a href ="#"><img src="https://img.icons8.com/color/48/redux.png" alt="redux"/></a>
 </p>
 
 
