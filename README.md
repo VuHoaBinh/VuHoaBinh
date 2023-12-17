@@ -1,8 +1,9 @@
 ![view counter](https://komarev.com/ghpvc/?username=VuHoaBinh&label=Profile%20views&color=005b96&style=flat-square)
-- <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a sophomore at the uni.
+- <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a junior at the university.
 - 🌱 I'm curently learning new something amazing!!.
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
+
 
 ## Tool Languages
 <p align="left">
