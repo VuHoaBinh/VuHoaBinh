@@ -1,35 +1,22 @@
-![view counter](https://komarev.com/ghpvc/?username=VuHoaBinh&label=Profile%20views&color=005b96&style=flat-square)
 - <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a junior at the university.
-- 🌱 I'm curently learning new something amazing!!.
+- 🌱 I'm currently learning new something and amazing!!.
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
 
 
-## Tool Languages
-<p align="left">
-  <a href ="#"><img src="https://img.icons8.com/color/48/null/python--v1.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/ios/50/null/c-plus-plus-logo.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/color/48/null/html-5--v2.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/ios-filled/50/null/css3.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/></a>
-  <a href ="#"><img src="https://img.icons8.com/officel/48/react.png" alt="react"/></a>
-  <a href ="#"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
-  <a href ="#"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/></a>
-  <a href ="#"><img src="https://img.icons8.com/color/48/redux.png" alt="redux"/></a>
-</p>
-
-
 ## 👉 Connect with me 👈
-<p align="left">
-  <a href="https://www.facebook.com/Btomsenior10x/" alt="Facebook">
-    <img src="https://img.icons8.com/office/48/null/facebook.png"/>
+<p style="text-align: left;">
+  <a href="www.linkedin.com/in/vuhoabinh" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" style="width: 50px;"/>
   </a>
-  <a href="mailto:hoabinh105.work@gmail.com">
-    <img src="https://img.icons8.com/doodle/48/null/apple-mail.png"/>
+  <a href="https://www.facebook.com/Btomsenior10x/" title="Facebook">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook"  style="width: 50px;"/>
+  </a>
+  <a href="mailto:hoabinh105.work@gmail.com" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" style="width: 50px;"/>
   </a>
 </p>
+
 
 <hr>
 <table style="width:50%;">
