@@ -6,7 +6,7 @@
 
 ## 👉 Connect with me 👈
 <p style="text-align: left;">
-  <a href="www.linkedin.com/in/vuhoabinh" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/h%C3%B2a-b%C3%ACnh-v-89b214210/" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" style="width: 50px;"/>
   </a>
   <a href="https://www.facebook.com/Btomsenior10x/" title="Facebook">
