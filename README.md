@@ -1,4 +1,4 @@
-- <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. I'm now a junior at the university.
+- <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. 
 - 🌱 I'm currently learning new something and amazing!!.
 - 💬 Open and friendly 🙂
 - 📫 hoabinh105.work@gmail.com
