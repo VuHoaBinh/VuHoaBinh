@@ -1,3 +1,6 @@
+![view counter](https://komarev.com/ghpvc/?username=VuHoaBinh&label=Profile%20views&color=0e75b6&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=VuHoaBinh)
+
 - <strong>Hi😀👋,I’m Vũ Hòa Bình </strong>. 
 - 🌱 I'm currently learning new something and amazing!!.
 - 💬 Open and friendly 🙂
