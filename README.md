@@ -41,11 +41,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=VuHoaBinh&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuHoaBinh&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
 
 
 
